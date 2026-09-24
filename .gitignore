@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Recorded market data and run logs: large, and not redistributable.
+data/
+logs/

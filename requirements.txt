@@ -1,0 +1,7 @@
+pandas>=2.0
+numpy>=1.26
+pyarrow>=15
+requests>=2.31
+vnstock>=3.2      # backfill.py only: the deeper VCI 1-minute window
+paho-mqtt>=2.1    # probe_dnse.py only
+pytest>=8.0
